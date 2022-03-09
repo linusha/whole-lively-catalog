@@ -30,3 +30,7 @@ A collection of research papers, articles, books, software, and all things livel
 ## Web Resources :globe_with_meridians: 
 
 - [lively @ YCR/HARC](https://harc.ycr.org/project/lively/)
+
+## Commercial Applications
+
+- [engagelively](https://engagelively.com/)
