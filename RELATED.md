@@ -15,3 +15,10 @@ This document collects materials that are not directly about lively, but are rel
 ## Interviews
 
 - [1988 Interview with JCR Licklider](https://conservancy.umn.edu/bitstream/handle/11299/107436/oh150jcl.pdf?sequence=1&isAllowed=y)
+
+## Web Resources
+
+- [Website of Yoshiki Ohshima](https://tinlizzie.org/ohshima/)
+- [Viewpoints Research Institute](http://www.vpri.org/)
+- [Viewpoints Intelligent Archive](https://tinlizzie.org/IA/index.php/Intelligent_Archive)
+- [Website of Andrés Cuervo](https://cwervo.com/projects/)
