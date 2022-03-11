@@ -11,3 +11,7 @@ This document collects materials that are not directly about lively, but are rel
 ## Talks/Demos/Videos
 
 - [Yoshiki Ohshima](https://www.youtube.com/user/yoshikiohshima/videos)s YouTube Channel contains, among others, a lot of Alan Kay Talks.
+
+## Interviews
+
+- [1988 Interview with JCR Licklider](https://conservancy.umn.edu/bitstream/handle/11299/107436/oh150jcl.pdf?sequence=1&isAllowed=y)
