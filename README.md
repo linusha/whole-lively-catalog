@@ -9,12 +9,16 @@ A collection of research papers, articles, books, software, and all things livel
 
 ## Talks :loudspeaker:
 
+- [Daniel Ingalls : The Live Web. Drag 'n drop in the cloud (YOW! 2011)](https://www.youtube.com/watch?v=XI9sN6OevB4)
 - [Daniel Ingalls : The Live Web. Drag 'n drop in the cloud (JSConf 2012)](https://www.youtube.com/watch?v=QTJRwKOFddc)
-
+- [Dan Ingalls: Pronto: Toward a Live Designer's Notebook (YOW! 2016 )](https://www.youtube.com/watch?v=if72CFsF_SY)
+- [Dan Ingall: The Lively Kernel (Google Tech Talks, January, 24 2008)](https://www.youtube.com/watch?v=gGw09RZjQf8)
 
 ## Screencasts and Videos :movie_camera: 
 
 - [lively playlist by Robert Krahn](https://www.youtube.com/playlist?list=PLLz9NM_eflp5-ALuLc2da7sJ3UQt8agU9)
+- Some Screencasts have been uploaded on [gandysmedicineshow](https://www.youtube.com/user/gandysmedicineshow/videos) channel
+- Two Demos have been uploaded by [Conrad Calmez](https://www.youtube.com/c/ConradCalmez/videos)
 
 ## Research Papers/Thesis :page_facing_up:
 
